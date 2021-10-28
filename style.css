@@ -1,0 +1,35 @@
+.site-title.page-title {
+    color:rgba(167, 238, 62, 0.87);
+    font-size: 54px;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    text-decoration-line: underline;
+    
+}
+.page-title {
+    color:rgb(255, 135, 79);
+    font-size: 45px;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    text-decoration:underline;
+}
+.picture {
+    display: block;
+    margin: auto;
+    width: 400px;
+    height: auto;
+    margin-bottom: 50px;
+}
+.link {
+    font-size: 22px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(83, 10, 10);
+    align-self: center;
+
+}
+.subtitle {
+    font-size: 20px;
+    text-align: center;
+}
